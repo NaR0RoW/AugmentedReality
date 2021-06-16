@@ -1,3 +1,0 @@
-/home/she/ohhhhh/detect_markers/build/CMakeFiles/rebuild_cache.dir
-/home/she/ohhhhh/detect_markers/build/CMakeFiles/edit_cache.dir
-/home/she/ohhhhh/detect_markers/build/CMakeFiles/detect.dir

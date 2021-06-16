@@ -1,3 +1,0 @@
-/home/she/ohhhhh/calibrate_camera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/she/ohhhhh/calibrate_camera/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/she/ohhhhh/calibrate_camera/cmake-build-debug/CMakeFiles/calibrate.dir
