@@ -1,0 +1,97 @@
+[0.314s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.314s] DEBUG:colcon:Parsed command line arguments: Namespace(ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7fddfdb57e20>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=8, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7fddfdb57e20>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fddfdb623d0>)
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.319s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.319s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/she/ohhhhh/video_our/src/cpp'
+[0.319s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.320s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.334s] DEBUG:colcon.colcon_core.package_identification:Package '.' with type 'ros.ament_cmake' and name 'cpp'
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.334s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_args' from command line to 'None'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_target' from command line to 'None'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_clean_cache' from command line to 'False'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_clean_first' from command line to 'False'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'cmake_force_configure' from command line to 'False'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'ament_cmake_args' from command line to 'None'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'catkin_cmake_args' from command line to 'None'
+[0.352s] Level 5:colcon.colcon_core.verb:set package 'cpp' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.352s] DEBUG:colcon.colcon_core.verb:Building package 'cpp' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/she/ohhhhh/video_our/src/cpp/build/cpp', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/she/ohhhhh/video_our/src/cpp/install/cpp', 'merge_install': False, 'path': '/home/she/ohhhhh/video_our/src/cpp', 'symlink_install': False, 'test_result_base': None}
+[0.353s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.355s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.355s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/she/ohhhhh/video_our/src/cpp' with build type 'ament_cmake'
+[0.355s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/she/ohhhhh/video_our/src/cpp'
+[0.359s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.359s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.359s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.377s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.838s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.891s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[0.910s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(cpp)
+[0.917s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[0.921s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp' for CMake module files
+[0.922s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp' for CMake config files
+[0.922s] Level 1:colcon.colcon_core.shell:create_environment_hook('cpp', 'cmake_prefix_path')
+[0.924s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.ps1'
+[0.925s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.dsv'
+[0.925s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.sh'
+[0.927s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib'
+[0.928s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/bin'
+[0.928s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/pkgconfig/cpp.pc'
+[0.928s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/python3.8/site-packages'
+[0.929s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.ps1'
+[0.932s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.dsv'
+[0.933s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.sh'
+[0.933s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.bash'
+[0.934s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.zsh'
+[0.934s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/colcon-core/packages/cpp)
+[0.974s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(cpp)
+[0.975s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp' for CMake module files
+[0.977s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp' for CMake config files
+[0.977s] Level 1:colcon.colcon_core.shell:create_environment_hook('cpp', 'cmake_prefix_path')
+[0.978s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.ps1'
+[0.979s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.dsv'
+[0.980s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/hook/cmake_prefix_path.sh'
+[0.982s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib'
+[0.982s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/bin'
+[0.982s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/pkgconfig/cpp.pc'
+[0.982s] Level 1:colcon.colcon_core.environment:checking '/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/python3.8/site-packages'
+[0.984s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.ps1'
+[0.985s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.dsv'
+[0.985s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.sh'
+[0.985s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.bash'
+[0.986s] INFO:colcon.colcon_core.shell:Creating package script '/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.zsh'
+[0.986s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/she/ohhhhh/video_our/src/cpp/install/cpp/share/colcon-core/packages/cpp)
+[0.986s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[0.987s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[0.987s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[0.987s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[0.998s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[0.998s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[0.998s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.025s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.026s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/she/ohhhhh/video_our/src/cpp/install/local_setup.ps1'
+[1.028s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/she/ohhhhh/video_our/src/cpp/install/_local_setup_util_ps1.py'
+[1.029s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/she/ohhhhh/video_our/src/cpp/install/setup.ps1'
+[1.032s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/she/ohhhhh/video_our/src/cpp/install/local_setup.sh'
+[1.033s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/she/ohhhhh/video_our/src/cpp/install/_local_setup_util_sh.py'
+[1.033s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/she/ohhhhh/video_our/src/cpp/install/setup.sh'
+[1.035s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/she/ohhhhh/video_our/src/cpp/install/local_setup.bash'
+[1.036s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/she/ohhhhh/video_our/src/cpp/install/setup.bash'
+[1.038s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/she/ohhhhh/video_our/src/cpp/install/local_setup.zsh'
+[1.038s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/she/ohhhhh/video_our/src/cpp/install/setup.zsh'

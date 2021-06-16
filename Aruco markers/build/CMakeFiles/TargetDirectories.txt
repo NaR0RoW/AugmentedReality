@@ -1,0 +1,3 @@
+/home/she/ohhhhh/aruco/build/CMakeFiles/rebuild_cache.dir
+/home/she/ohhhhh/aruco/build/CMakeFiles/edit_cache.dir
+/home/she/ohhhhh/aruco/build/CMakeFiles/aruco.dir

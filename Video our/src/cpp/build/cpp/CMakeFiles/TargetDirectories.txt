@@ -1,0 +1,12 @@
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/install/local.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/install.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/list_install_components.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/rebuild_cache.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/edit_cache.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/test.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/video_receiver.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/video_transmitter.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/install/strip.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/cpp.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/cpp_uninstall.dir
+/home/she/ohhhhh/video_our/src/cpp/build/cpp/CMakeFiles/uninstall.dir

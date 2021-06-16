@@ -1,0 +1,70 @@
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenCV: /usr/local (found version "4.5.2") 
+-- Found ament_cmake: 0.9.8 (/home/she/ros2_foxy/ros2-linux/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_cmake_ros: 0.9.0 (/home/she/ros2_foxy/ros2-linux/share/ament_cmake_ros/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[35m[1mScanning dependencies of target cpp[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/cpp.dir/src/video_transmitter.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/cpp.dir/src/base_exception.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/cpp.dir/src/video_receiver.cpp.o[0m
+[ 50%] [32m[1mLinking CXX static library libcpp.a[0m
+[ 50%] Built target cpp
+[35m[1mScanning dependencies of target video_receiver[0m
+[35m[1mScanning dependencies of target video_transmitter[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/video_receiver.dir/src/video_receiver.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/video_transmitter.dir/src/video_transmitter.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable video_transmitter[0m
+[100%] [32m[1mLinking CXX executable video_receiver[0m
+[100%] Built target video_transmitter
+[100%] Built target video_receiver
+-- Install configuration: ""
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_receiver.h
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_transmitter.h
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/base_exception.h
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_settings.h
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/libcpp.a
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_transmitter
+-- Set runtime path of "/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_transmitter" to ""
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_receiver
+-- Set runtime path of "/home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_receiver" to ""
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.sh
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.dsv
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/package_run_dependencies/cpp
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/parent_prefix_path/cpp
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.sh
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.dsv
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.sh
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.dsv
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.bash
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.sh
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.zsh
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.dsv
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.dsv
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/packages/cpp
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport-noconfig.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig-version.cmake
+-- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.xml

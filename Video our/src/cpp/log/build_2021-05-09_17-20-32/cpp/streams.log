@@ -1,0 +1,39 @@
+[0.019s] Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.089s] [ 50%] Built target cpp
+[0.122s] [ 75%] Built target video_receiver
+[0.124s] [100%] Built target video_transmitter
+[0.142s] Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.198s] Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[0.206s] -- Install configuration: ""
+[0.206s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include
+[0.206s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp
+[0.206s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_receiver.h
+[0.207s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_transmitter.h
+[0.207s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/base_exception.h
+[0.207s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_settings.h
+[0.207s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/libcpp.a
+[0.208s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_transmitter
+[0.208s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_receiver
+[0.208s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.sh
+[0.208s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.dsv
+[0.208s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/package_run_dependencies/cpp
+[0.209s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/parent_prefix_path/cpp
+[0.210s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.sh
+[0.212s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.dsv
+[0.213s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.sh
+[0.213s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.dsv
+[0.214s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.bash
+[0.215s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.sh
+[0.215s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.zsh
+[0.216s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.dsv
+[0.217s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.dsv
+[0.217s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/packages/cpp
+[0.217s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport.cmake
+[0.217s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport-noconfig.cmake
+[0.218s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.218s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_targets-extras.cmake
+[0.218s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[0.219s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig.cmake
+[0.219s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig-version.cmake
+[0.220s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.xml
+[0.220s] Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="opengl" targetName="stb" />
+      <config projectName="opengl" targetName="glad" />
+      <config projectName="opengl" targetName="opengl_executable" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fd9acf8-e9f3-486c-96b3-b7176df5b611" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../new opengl/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../new opengl/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL-Tutorials" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gitproject/myproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/OpenGLTest.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/OpenGLTest.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeFive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeFour.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeOne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeSix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeThree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/cubeTwo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/mainscene.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/mainscene.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/mainwindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../op/OpenGLTest_texture/OpenGLTest/OpenGLTest/resource.qrc" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sFmcUZ7M0BbEtGVCkBNhl7evDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="CMake Application.opengl_executable">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glad" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl" TARGET_NAME="glad" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opengl_executable" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl" TARGET_NAME="opengl_executable" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="opengl" RUN_TARGET_NAME="opengl_executable">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stb" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="opengl" TARGET_NAME="stb" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.glad" />
+      <item itemvalue="CMake Application.opengl_executable" />
+      <item itemvalue="CMake Application.stb" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd9acf8-e9f3-486c-96b3-b7176df5b611" name="Default Changelist" comment="" />
+      <created>1620476834537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620476834537</updated>
+      <workItem from="1620476851592" duration="2192000" />
+      <workItem from="1621193463749" duration="1994000" />
+      <workItem from="1621195513613" duration="902000" />
+      <workItem from="1623836786035" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

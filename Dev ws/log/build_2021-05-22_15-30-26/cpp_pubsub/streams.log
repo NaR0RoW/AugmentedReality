@@ -1,0 +1,72 @@
+[0.022s] Invoking command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake /home/she/ohhhhh/dev_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/she/ohhhhh/dev_ws/install/cpp_pubsub
+[0.210s] -- The C compiler identification is GNU 9.3.0
+[0.340s] -- The CXX compiler identification is GNU 9.3.0
+[0.355s] -- Detecting C compiler ABI info
+[0.433s] -- Detecting C compiler ABI info - done
+[0.454s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.454s] -- Detecting C compile features
+[0.455s] -- Detecting C compile features - done
+[0.459s] -- Detecting CXX compiler ABI info
+[0.540s] -- Detecting CXX compiler ABI info - done
+[0.559s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.559s] -- Detecting CXX compile features
+[0.560s] -- Detecting CXX compile features - done
+[0.564s] -- Found ament_cmake: 0.9.8 (/home/she/ros2_foxy/ros2-linux/share/ament_cmake/cmake)
+[0.604s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[0.604s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.827s] -- Found rclcpp: 2.3.0 (/home/she/ros2_foxy/ros2-linux/share/rclcpp/cmake)
+[0.873s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.880s] -- Found rosidl_adapter: 1.2.0 (/home/she/ros2_foxy/ros2-linux/share/rosidl_adapter/cmake)
+[0.902s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_c
+[0.916s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp
+[1.048s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.078s] -- Found FastRTPS: /home/she/ros2_foxy/ros2-linux/include  
+[1.165s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.246s] -- Found rmw_implementation_cmake: 1.0.2 (/home/she/ros2_foxy/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.248s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.249s] -- Looking for pthread.h
+[1.343s] -- Looking for pthread.h - found
+[1.343s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.431s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.431s] -- Looking for pthread_create in pthreads
+[1.492s] -- Looking for pthread_create in pthreads - not found
+[1.492s] -- Looking for pthread_create in pthread
+[1.582s] -- Looking for pthread_create in pthread - found
+[1.585s] -- Found Threads: TRUE  
+[1.691s] -- Found std_msgs: 2.0.3 (/home/she/ros2_foxy/ros2-linux/share/std_msgs/cmake)
+[1.724s] -- Found OpenCV: /usr/local (found version "4.5.2") 
+[1.801s] -- Configuring done
+[1.817s] -- Generating done
+[1.818s] -- Build files have been written to: /home/she/ohhhhh/dev_ws/build/cpp_pubsub
+[1.833s] Invoked command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake /home/she/ohhhhh/dev_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/she/ohhhhh/dev_ws/install/cpp_pubsub
+[1.839s] Invoking command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake --build /home/she/ohhhhh/dev_ws/build/cpp_pubsub -- -j8 -l8
+[1.911s] [ 25%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[1.913s] [ 50%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o[0m
+[8.084s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[8.909s] [100%] [32m[1mLinking CXX executable listener[0m
+[9.388s] [100%] Built target listener
+[9.629s] [100%] Built target talker
+[9.639s] Invoked command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake --build /home/she/ohhhhh/dev_ws/build/cpp_pubsub -- -j8 -l8
+[9.770s] Invoking command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake --install /home/she/ohhhhh/dev_ws/build/cpp_pubsub
+[9.814s] -- Install configuration: ""
+[9.814s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[9.817s] -- Set runtime path of "/home/she/ohhhhh/dev_ws/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[9.817s] -- Up-to-date: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[9.817s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/lib/cpp_pubsub/listener
+[9.819s] -- Set runtime path of "/home/she/ohhhhh/dev_ws/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[9.820s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[9.820s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[9.820s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[9.820s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[9.821s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[9.822s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[9.822s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[9.822s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[9.822s] -- Installing: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[9.822s] -- Up-to-date: /home/she/ohhhhh/dev_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[9.833s] Invoked command in '/home/she/ohhhhh/dev_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /home/she/.local/bin/cmake --install /home/she/ohhhhh/dev_ws/build/cpp_pubsub

@@ -1,0 +1,45 @@
+[0.020s] Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.069s] -- Found ament_cmake: 0.9.8 (/home/she/ros2_foxy/ros2-linux/share/ament_cmake/cmake)
+[0.099s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.288s] -- Found ament_cmake_ros: 0.9.0 (/home/she/ros2_foxy/ros2-linux/share/ament_cmake_ros/cmake)
+[0.369s] -- Configuring done
+[0.384s] -- Generating done
+[0.385s] -- Build files have been written to: /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[0.434s] [ 50%] Built target cpp
+[0.456s] [ 75%] Built target video_receiver
+[0.466s] [100%] Built target video_transmitter
+[0.483s] Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+[0.535s] Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp
+[0.550s] -- Install configuration: ""
+[0.551s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include
+[0.551s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp
+[0.551s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_receiver.h
+[0.551s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_transmitter.h
+[0.552s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/base_exception.h
+[0.552s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/include/cpp/video_settings.h
+[0.552s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/libcpp.a
+[0.552s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_transmitter
+[0.553s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/lib/cpp/video_receiver
+[0.553s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.sh
+[0.553s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/library_path.dsv
+[0.553s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/package_run_dependencies/cpp
+[0.553s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/parent_prefix_path/cpp
+[0.553s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.sh
+[0.554s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/ament_prefix_path.dsv
+[0.554s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.sh
+[0.555s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/environment/path.dsv
+[0.556s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.bash
+[0.557s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.sh
+[0.557s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.zsh
+[0.557s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/local_setup.dsv
+[0.557s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.dsv
+[0.558s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/ament_index/resource_index/packages/cpp
+[0.558s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport.cmake
+[0.558s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/export_cppExport-noconfig.cmake
+[0.559s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.559s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_targets-extras.cmake
+[0.560s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[0.560s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig.cmake
+[0.560s] -- Up-to-date: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/cmake/cppConfig-version.cmake
+[0.561s] -- Installing: /home/she/ohhhhh/video_our/src/cpp/install/cpp/share/cpp/package.xml
+[0.561s] Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp

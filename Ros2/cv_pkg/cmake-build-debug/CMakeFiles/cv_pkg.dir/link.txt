@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcv_pkg.a CMakeFiles/cv_pkg.dir/cv_pkg/src/Emitter.cpp.o CMakeFiles/cv_pkg.dir/cv_pkg/src/Receiver.cpp.o CMakeFiles/cv_pkg.dir/cv_pkg/src/Receiver2.cpp.o
+/usr/bin/ranlib libcv_pkg.a

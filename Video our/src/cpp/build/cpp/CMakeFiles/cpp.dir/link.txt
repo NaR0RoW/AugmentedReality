@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpp.a  CMakeFiles/cpp.dir/src/video_transmitter.cpp.o CMakeFiles/cpp.dir/src/video_receiver.cpp.o CMakeFiles/cpp.dir/src/base_exception.cpp.o
+/usr/bin/ranlib libcpp.a

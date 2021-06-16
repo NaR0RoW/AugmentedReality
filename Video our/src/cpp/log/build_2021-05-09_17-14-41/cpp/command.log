@@ -1,0 +1,6 @@
+Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake /home/she/ohhhhh/video_our/src/cpp -DCMAKE_INSTALL_PREFIX=/home/she/ohhhhh/video_our/src/cpp/install/cpp
+Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake /home/she/ohhhhh/video_our/src/cpp -DCMAKE_INSTALL_PREFIX=/home/she/ohhhhh/video_our/src/cpp/install/cpp
+Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --build /home/she/ohhhhh/video_our/src/cpp/build/cpp -- -j8 -l8
+Invoking command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp
+Invoked command in '/home/she/ohhhhh/video_our/src/cpp/build/cpp' returned '0': /usr/bin/cmake --install /home/she/ohhhhh/video_our/src/cpp/build/cpp

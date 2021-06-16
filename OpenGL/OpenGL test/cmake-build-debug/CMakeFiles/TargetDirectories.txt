@@ -1,0 +1,9 @@
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/glad/CMakeFiles/rebuild_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/glad/CMakeFiles/edit_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/glad/CMakeFiles/glad.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/project/CMakeFiles/rebuild_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/project/CMakeFiles/edit_cache.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/project/CMakeFiles/opengl_executable.dir
+/Users/nar_row/Desktop/Augmented reality/OPENGL/opengl test/cmake-build-debug/project/CMakeFiles/stb.dir

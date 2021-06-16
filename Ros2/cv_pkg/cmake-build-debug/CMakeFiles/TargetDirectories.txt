@@ -1,0 +1,14 @@
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/install/local.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/install.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg_emitter.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg_receiver.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg_emitter_and_receiver.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg_uninstall.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/cv_pkg_receiver2.dir
+/home/she/ohhhhh/kira/____trash/cv_pkg/cmake-build-debug/CMakeFiles/test.dir
