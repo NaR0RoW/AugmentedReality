@@ -27,3 +27,6 @@ A platform for creating games in augmented reality for a quadcopter was implemen
 * Creation of your own graphics engine 
 
 * Development of a game based on the platform
+
+
+![Final-4](https://user-images.githubusercontent.com/72103313/122224508-d94fef00-cebc-11eb-8954-59a2a9bc4b51.gif)
