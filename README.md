@@ -1,13 +1,14 @@
 # AugmentedReality
 
-### What did we want? 
+### What was our goal? 
 
-A platform for creating games in augmented reality for a quadcopter was implemented
+Our team wanted to elaborate more on the issue of implementing a platform for creating
+augmented reality games for the quadcopter
 
 ### Our product:
 
-* Allows you to combine your computer and quadcopter into a single whole
-* It will help you immerse yourself in augmented reality
+* allows you to combine your computer and quadcopter together
+* helps put you into augmented reality
 
 ![Video 1](https://user-images.githubusercontent.com/72103313/122225473-c7bb1700-cebd-11eb-9dd4-11bca67f7d1e.gif) 
 
@@ -17,12 +18,12 @@ A platform for creating games in augmented reality for a quadcopter was implemen
 ### Technologies used: 
 
 * [ROS2](https://docs.ros.org/en/eloquent/index.html) - interaction between the computer and the quadcopter
-* [OpenCV](https://opencv.org) - using the camera 
-* [OpenGL](https://www.opengl.org) - drawing models
+* [OpenCV](https://opencv.org) - the camera 
+* [OpenGL](https://www.opengl.org) - details
 
 ### Development plan: 
 
-* Optimization of video and information transfer 
+* Optimization of video and information transmission 
 * Integration of the project into the existing game engine 
 * Creation of your own graphics engine 
-* Development of a game based on the platform
+* Platform-based game development
