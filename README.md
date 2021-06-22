@@ -1,5 +1,7 @@
 # AugmentedReality
 
+The project was made in a team with [Vasily Shevchenko](https://gitlab.com/vasily.shevchenko2222222)
+
 ### What was our goal? 
 
 Our team wanted to elaborate more on the issue of implementing a platform for creating
